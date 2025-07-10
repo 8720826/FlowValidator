@@ -1,4 +1,4 @@
-# FlowValidator - 链式验证框架
+# FlowValidator - 链式验证框架       [English](https://github.com/8720826/FlowValidator/blob/main/README.en.md)
 
 ## 简介
 `FlowValidator` 是一个为复杂业务场景设计的链式验证框架。它支持同步和异步混合验证、实体依赖管理、跨实体联合校验，并提供了全流程控制（成功/失败回调和终态处理）。其核心设计目标是解决业务验证中的实体依赖、异步操作和复杂规则组合问题。
