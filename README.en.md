@@ -1,4 +1,4 @@
-# FlowValidator - Chained Validation Framework
+# FlowValidator - Chained Validation Framework     [中文](https://github.com/8720826/FlowValidator/blob/main/README.md)
 
 ## Introduction
 `FlowValidator` is a fluent validation framework designed for complex business scenarios. It features a chainable API that supports hybrid synchronous/asynchronous validation, entity dependency management, and cross-entity validation. The framework solves common validation challenges like sequential dependencies, mixed I/O operations, and complex business rules.
