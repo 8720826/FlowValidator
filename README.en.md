@@ -12,6 +12,11 @@
 - **Short-Circuiting**: Stop execution on first failure
 - **Null Safety**: Automatic null checks for reference types
 
+## Installation
+```bash
+Install-Package FlowValidator
+```
+
 ## Quick Start
 ```csharp
 var validator = new FlowValidator();
