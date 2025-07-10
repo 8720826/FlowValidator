@@ -14,6 +14,11 @@
 
 ## 快速开始
 
+### 安装
+```bash
+Install-Package FlowValidator
+```
+
 ### 基础使用
 ```csharp
 var validator = new FlowValidator();
