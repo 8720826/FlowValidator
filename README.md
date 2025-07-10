@@ -17,6 +17,7 @@
 ### 安装
 ```bash
 Install-Package FlowValidator
+using YesCent;
 ```
 
 ### 基础使用
